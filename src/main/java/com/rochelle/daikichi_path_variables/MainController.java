@@ -1,5 +1,5 @@
 package com.rochelle.daikichi_path_variables;
-//? Pair Programming -> Dominic Bass
+//? Pair Programming -> Dominic Basa
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
