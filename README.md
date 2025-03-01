@@ -1,1 +1,1 @@
-# DaikichiPathVariables
+# Daikichi Path Variables
